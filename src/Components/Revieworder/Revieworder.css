@@ -1,0 +1,44 @@
+.review-order{
+    display: flex;
+    border: 2px solid;
+    margin: 21px auto;
+    width: 517px;
+    height: 107px;
+    border: 1px solid rgba(149, 160, 167, 1);
+    border-radius: 8px;
+
+}
+
+.review-order img{
+    width: 91px;
+}
+.review_details_con{
+    width: 100%;
+    justify-content: space-between;
+    margin-left: 17px;
+   display: flex;
+
+}
+
+.review_details_con p{
+    margin: 0;
+}
+.dlt-icon{
+    color: #EB5757;
+    font-size: 31px;
+}
+.btn_dlt{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    border: 0;
+    background-color: #fccdcd;
+    
+}
+.review-dlt_btn{
+    display: flex;
+    align-items: center;
+}
+.btn_dlt:hover{
+    background-color: rgb(255, 0, 0);
+}
